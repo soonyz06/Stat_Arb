@@ -1,4 +1,5 @@
-# Stat_Arb
+#Redone
+
 Todo?: 
 - ML-based residual modeling
 - Disprove
